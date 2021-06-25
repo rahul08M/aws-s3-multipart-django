@@ -1,6 +1,6 @@
-# django-uppy-s3-multipart
+# aws-s3-multipart-django
 ## Simple working demo for AWS S3 Multipart using Uppy
-
+#### [Uppy AWS S3 Multipart](https://uppy.io/docs/aws-s3-multipart/)
 ## Setup
 
 Following are the setup instruction
