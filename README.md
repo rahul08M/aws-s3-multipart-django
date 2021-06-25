@@ -7,7 +7,7 @@ Following are the setup instruction
 
 ##### Clone the repo
 ```buildoutcfg
-git clone https://github.com/rahul08M/django-uppy-s3-multipart.git
+git clone https://github.com/rahul08M/aws-s3-multipart-django.git
 ```
 ##### Create python3.8 Virtual Env
 
