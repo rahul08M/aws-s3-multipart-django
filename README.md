@@ -30,7 +30,8 @@ AWS_REGION_NAME = '<AWS_REGION_NAME>'
 ##### Migrate and runserver
 
 ```bash
-python manage.py migrate
-python manage.py runserver
+python manage.py migrate   # migrate db models
+python manage.py runserver  # run server on default port 8000
+python manage.py runserver 0.0.0.0:<port> # run server on default port custom port
 http://127.0.0.1:8000/upload/
 ```
