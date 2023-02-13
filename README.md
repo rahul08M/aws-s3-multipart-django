@@ -2,7 +2,7 @@
 
 ![Django Hacks](https://i.ibb.co/r5tVzLx/uppy-Untitled.png)
 
-## Simple working demo for AWS S3 Multipart using Uppy
+## Simple working demo for [AWS S3](https://aws.amazon.com/s3/) Multipart using Uppy
 #### [Uppy AWS S3 Multipart](https://uppy.io/docs/aws-s3-multipart/)
 ## Setup
 
