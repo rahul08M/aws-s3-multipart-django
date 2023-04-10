@@ -1,4 +1,3 @@
-
 ## Simple working demo for [AWS S3](https://aws.amazon.com/s3/) Multipart using Uppy
 
 This is a simple demo of how to use [Uppy](https://uppy.io/docs/aws-s3-multipart/) to upload files to AWS S3 in multiple parts. Here are the setup instructions:
