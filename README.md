@@ -20,7 +20,7 @@ python3.8 -m venv <env-name>
 ##### 3. Install all required packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt  or pip3 install -r requirements.txt
 ```
 ##### 4. Configure your AWS settings in `settings.py`:
 
