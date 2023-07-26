@@ -3,7 +3,7 @@ asgiref==3.3.4
 boto3==1.17.98
 botocore==1.20.98
 CacheControl==0.12.6
-certifi==2022.12.7
+certifi==2023.7.22
 chardet==3.0.4
 colorama==0.4.3
 contextlib2==0.6.0
